@@ -1,5 +1,5 @@
 header{ 
-    background-color: #001CAD;
+    background-color: #c8cbd6;
     color: white;
     display: flex;
     justify-content: space-around; 
@@ -8,7 +8,7 @@ header{
 }
 
 .cabecalho-imagem {
-    width: 20%;
+    width: 200%;
 }
 
 .cabecalho-lista-item{
